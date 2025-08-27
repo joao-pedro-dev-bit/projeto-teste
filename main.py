@@ -19,6 +19,8 @@
 # print(contador)
 # contador = contador -1
 
+print('hello, world')
+
 senha = input('digite sua senha: ')
 
 while senha != 'jao123':
