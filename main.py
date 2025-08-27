@@ -19,12 +19,12 @@
 # print(contador)
 # contador = contador -1
 
-# senha = input('digite sua senha: ')
+senha = input('digite sua senha: ')
 
-# while senha != 'jao123':
-# print('a senha está incorreta!!')
-# senha = input('tente novamente: ')
+while senha != 'jao123':
+print('a senha está incorreta!!')
+senha = input('tente novamente: ')
 
 
-# else:
-# print('a senha está correta!!')
+else:
+print('a senha está correta!!')
