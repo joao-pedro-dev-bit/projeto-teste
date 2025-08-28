@@ -21,12 +21,4 @@
 
 print('hello, world')
 
-senha = input('digite sua senha: ')
 
-while senha != 'jao123':
-print('a senha está incorreta!!')
-senha = input('tente novamente: ')
-
-
-else:
-print('a senha está correta!!')
