@@ -19,6 +19,18 @@
 # print(contador)
 # contador = contador -1
 
-print('hello, world')
+horario-remedio = int(input('que horas sâo: '))
+
+while horario-remedio < 5:
+    print('ainda n é o horário do remédio ')
+
+while horario-remedio >7:
+        print('ainda n é o horário do remédio ')
+
+else:
+      print('é hora de tomar seu remédio!!')
+
+
+
 
 
