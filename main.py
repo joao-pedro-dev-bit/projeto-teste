@@ -17,20 +17,10 @@
 
 # while contador > 0:
 # print(contador)
-# contador = contador -1
+# contador = contador 
 
-horario-remedio = int(input('que horas sâo: '))
+num1 = int(input('digite um número: '))
 
-while horario-remedio < 5:
-    print('ainda n é o horário do remédio ')
+num2 = int(input('digite outro número: '))
 
-while horario-remedio >7:
-        print('ainda n é o horário do remédio ')
-
-else:
-      print('é hora de tomar seu remédio!!')
-
-
-
-
-
+# print(f"{num1 + num2} ")
