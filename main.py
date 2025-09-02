@@ -19,8 +19,8 @@
 # print(contador)
 # contador = contador 
 
-from turtle import
-from colorsys import 
+from turtle import *
+from colorsys import *
 speed(0)
 bgcolor('black')
 h=0
