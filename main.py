@@ -19,8 +19,18 @@
 # print(contador)
 # contador = contador 
 
-num1 = int(input('digite um número: '))
-
-num2 = int(input('digite outro número: '))
-
-# print(f"{num1 + num2} ")
+from turtle import
+from colorsys import 
+speed(0)
+bgcolor('black')
+h=0
+for i in range(75):
+    color(hsv_to_rgb(h,1,1))
+    h+=0.014
+    left(1)
+    forward(1)
+    for i in range(3):
+        left(2)
+        circle(150)
+        hideturtle()
+done()
